@@ -10,4 +10,4 @@ int main() {
  cout<<"hello " <<name;
  return 0;
 }
-// cin read only one word for multiple word we use "getline()"
+// note : cin read only one word for multiple word we use "getline()"
