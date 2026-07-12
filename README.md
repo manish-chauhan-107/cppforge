@@ -9,8 +9,9 @@ I use this repository to organize C++ concepts, practice programs, and track my 
 - Arrays
 - Strings
 - Pointers
-- Dynamic Memory Allocation
 - Structures
+- Dynamic Memory Allocation
+- OOP
 ## 🎯 Goal
 Build strong C++ fundamentals and move toward Data Structures and Algorithms.
 ## 🚧 Status
