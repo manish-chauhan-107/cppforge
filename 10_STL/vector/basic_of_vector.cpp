@@ -1,6 +1,7 @@
 // SYNTEX For declaration---> vector<data_type> vector_name; 
 //name.push_back() --> for Add a element in vector
 //name.size() ---> give length of vector
+//capacity of  a vector is not the size of vector 
 #include <iostream>
 #include <bits/stdc++.h>
 #include<vector>
